@@ -1,4 +1,3 @@
-import random
 import sqlite3
 from src.config import TelegramBot
 
